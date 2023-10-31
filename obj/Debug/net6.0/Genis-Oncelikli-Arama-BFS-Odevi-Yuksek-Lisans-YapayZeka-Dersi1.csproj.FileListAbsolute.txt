@@ -1,0 +1,15 @@
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\bin\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.exe
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\bin\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.deps.json
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\bin\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.runtimeconfig.json
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\bin\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.dll
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\bin\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.pdb
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.csproj.AssemblyReference.cache
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.AssemblyInfoInputs.cache
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.AssemblyInfo.cs
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.csproj.CoreCompileInputs.cache
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.dll
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\refint\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.dll
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.pdb
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.genruntimeconfig.cache
+C:\Users\ryses\source\repos\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi\obj\Debug\net6.0\ref\Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.dll

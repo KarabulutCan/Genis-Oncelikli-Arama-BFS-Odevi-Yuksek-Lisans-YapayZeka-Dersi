@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1/1.0.0": {
+        "runtime": {
+          "Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Genis-Oncelikli-Arama-BFS-Odevi-Yuksek-Lisans-YapayZeka-Dersi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
