@@ -75,7 +75,7 @@ public class Program
     }
 
     // Çözüm yolu bulmak için BFS (Genişlik Öncelikli Arama) fonksiyonu.
-    // Çözüm yolu ve genişletilen düğümleri içeren bir Tuple döndürür.
+    // Çözüm yolu ve genişletilen düğümleri içeren bir Tuple döndürür. Eklenen veriyi Yanlışlıkla değiştirme silme yapmamak için Tuple kullandım.
     public static Tuple<List<string>, List<string>> BFS(string start_input, string goal = "1234")
     {
         // Ziyaret edilen düğümleri takip etmek için kullanılan HashSet.
@@ -88,7 +88,7 @@ public class Program
         // İlk girişle aramayı başlat.
         queue.Enqueue(new Tuple<string, List<string>>(start_input, new List<string>()));
 
-        // İşlenecek düğüm olduğu sürece aramaya devam et.
+        // İşlenecek düğüm olduğu sürece aramaya devam et. Bu While döngüsünde ki kontrolü yapmassam düğümler boyunca ilerleyemem.
         while (queue.Count > 0)
         {
             var tuple = queue.Dequeue();
@@ -114,7 +114,8 @@ public class Program
                 Swap(node, 2, 3)
             };
 
-            // Eğer ziyaret edilmemişse çocuk düğümleri kuyruğa ekle.
+            // Eğer ziyaret edilmemişse çocuk düğümleri kuyruğa ekle. Ekrana basmak için gerekli.
+            // Bir yol üzerinde aynı sayı birden fazla kez bulmuyor.Denedim.
             foreach (var child in children)
             {
                 if (!visited.Contains(child))
