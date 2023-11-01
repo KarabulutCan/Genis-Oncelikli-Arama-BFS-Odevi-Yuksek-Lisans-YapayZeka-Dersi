@@ -126,7 +126,8 @@ public class Program
             }
         }
 
-        // Eğer buraya geldiysek, bir çözüm bulunamadı demektir.
+        // Eğer buraya geldiysek, bir çözüm bulunamadı demektir. 
+        // null check 36. satırda mevcut.
         return new Tuple<List<string>, List<string>>(null, expandedNodes);
     }
 
@@ -140,5 +141,5 @@ public class Program
         return new string(array);
     }
 
-    //Kodu tüm varyasyonlarda denedim 100% çalışıyor.
+    //Kodu tüm varyasyonlarda denedim 100% çalışıyor. 
 }
